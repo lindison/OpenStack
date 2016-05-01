@@ -1,0 +1,17 @@
+
+[keystone]
+keystone01
+
+[compute_nodes]
+OpenStack01
+OpenStack02
+OpenStack03
+OpenStack04
+
+[rabbit]
+ampq01
+
+[mysql]
+maria01
+maria02
+
